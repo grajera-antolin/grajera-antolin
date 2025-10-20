@@ -1,8 +1,10 @@
 🌼 Hello  
-🦋 I'm Cristina Grajera-Antolín
-🧑‍💻 ​PhD student in Biogeography and Macroeology
-🌍 Universidad de Alcalá
-📊 Aesthetic graphs lover
+🦋 I'm Cristina Grajera-Antolín  
+🧑‍💻 ​PhD student in Biogeography and Macroeology  
+🌍 Universidad de Alcalá (UAH)  
+🌳 I study the limiting factors of forests  
+®️ Actually enjoy coding  
+📊 Aesthetic graphs lover  
 📬 cristinagrajeraantolin@gmail.com
 
 <!---
